@@ -6,7 +6,7 @@ Visit [LeetCode](https://leetcode.com/) to learn more and participate in the cha
 ## Problems:-
 ### Week 1
 - Number of Recent Calls [Question](src/questions/week1/Number-of-Recent-Calls.md) [Solution](src/solutions/week1/RecentCounter.kt)
-- Combination Sum [Question]() [Solution]()
+- Combination Sum [Question](src/questions/week1/Combination-Sum.md) [Solution](src/solutions/week1/RecentCounter.kt)
 
 ## License
 MIT License
