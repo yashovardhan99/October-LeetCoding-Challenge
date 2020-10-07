@@ -9,7 +9,8 @@ Visit [LeetCode](https://leetcode.com/) to learn more and participate in the cha
 - Combination Sum [Question](src/questions/week1/Combination-Sum.md) [Solution](src/solutions/week1/RecentCounter.kt)
 - K-diff Pairs in an Array [Question](src/questions/week1/k-diff-pairs.md) [Solution](src/solutions/week1/KDiffPairs.kt)
 - Remove Covered Intervals [Question](src/questions/week1/Remove-Covered-Intervals.md) [Solution](src/solutions/week1/RemoveCoveredIntervals.kt)
-- 
+- Complement of Base 10 Integer [Question](src/questions/week1/Base10Complement.md) [Solution](src/solutions/week1/BitwiseComplement.kt)
+
 ## License
 MIT License
 
