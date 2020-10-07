@@ -8,6 +8,7 @@ Visit [LeetCode](https://leetcode.com/) to learn more and participate in the cha
 - Number of Recent Calls [Question](src/questions/week1/Number-of-Recent-Calls.md) [Solution](src/solutions/week1/RecentCounter.kt)
 - Combination Sum [Question](src/questions/week1/Combination-Sum.md) [Solution](src/solutions/week1/RecentCounter.kt)
 - K-diff Pairs in an Array [Question](src/questions/week1/k-diff-pairs.md) [Solution](src/solutions/week1/KDiffPairs.kt)
+- Remove Covered Intervals [Question](src/questions/week1/Remove-Covered-Intervals.md) [Solution](src/solutions/week1/RemoveCoveredIntervals.kt)
 - 
 ## License
 MIT License
